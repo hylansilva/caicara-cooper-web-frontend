@@ -7,7 +7,7 @@ export const MainContainer: React.FC = () => {
     return (
         <div style={{ height: '100vh' }}>
             <S.MenuAccount>
-                <img src="public/images/logo.png" alt="logo" height={'70px'} />
+                <img src="https://cooperativacaicara.vercel.app/images/logo.png" alt="logo" height={'70px'} />
                 <div>
                     <Button style={S.ButtonStyle}>Pesquisar {<HiOutlineSearch />}</Button>
                 </div>

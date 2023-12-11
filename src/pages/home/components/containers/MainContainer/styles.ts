@@ -17,7 +17,7 @@ export const Banner1: React.CSSProperties = {
     color: '#fff',
     lineHeight: '160px',
     textAlign: 'center',
-    backgroundImage: 'url(public/images/flyer_1.svg)',
+    backgroundImage: 'url(/images/flyer_1.svg)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
 };
@@ -26,7 +26,7 @@ export const Banner2: React.CSSProperties = {
     color: '#fff',
     lineHeight: '160px',
     textAlign: 'center',
-    backgroundImage: 'url(public/images/flyer_2.svg)',
+    backgroundImage: 'url(/images/flyer_2.svg)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
 };
@@ -35,7 +35,7 @@ export const Banner3: React.CSSProperties = {
     color: '#fff',
     lineHeight: '160px',
     textAlign: 'center',
-    backgroundImage: 'url(public/images/flyer_3.svg)',
+    backgroundImage: 'url(https://cooperativacaicara.vercel.app/images/flyer_3.svg)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
 };

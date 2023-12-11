@@ -22,7 +22,7 @@ export const FooterSection: React.FC = () => {
                             Edf. Alfredo Fernandes, Bairro do Recife, Recife-Pe, Brasil - CEP 50030-917</address>
                     </Col>
                     <Col flex={1}>
-                        <img width={150} src='../../../../../../public/images/logo.png' />
+                        <img width={150} src='https://cooperativacaicara.vercel.app/images/logo.png' />
                     </Col>
                 </Row>
                 <Row>

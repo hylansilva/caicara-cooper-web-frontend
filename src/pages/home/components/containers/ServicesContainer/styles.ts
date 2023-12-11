@@ -20,7 +20,7 @@ export const Add1 = {
     boxShadow: '0 0.5rem 1rem rgba(0,0,0,0.15)',
     width: 710,
     height: 250,
-    backgroundImage: 'url(public/images/LIST_AD_1.png)',
+    backgroundImage: 'url(https://cooperativacaicara.vercel.app/images/LIST_AD_1.png)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     color: '#ffff',
@@ -42,7 +42,7 @@ export const Add2 = {
     boxShadow: '0 0.5rem 1rem rgba(0,0,0,0.15)',
     width: 346,
     height: 250,
-    backgroundImage: 'url(public/images/LIST_AD_2.png)',
+    backgroundImage: 'url(/images/LIST_AD_2.png)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     color: '#ffff',
@@ -68,7 +68,7 @@ export const ButtonStyles = {
 }
 
 export const Add3 = {
-    backgroundImage: 'url(public/images/LIST_AD_3.png)',
+    backgroundImage: 'url(https://cooperativacaicara.vercel.app/images/LIST_AD_3.png)',
     backgroundRepeat: 'no-repeat',
     boxShadow: '0 0.5rem 1rem rgba(0,0,0,0.15)',
     margin: '0px',
@@ -91,7 +91,7 @@ export const Add3 = {
     }
 }
 export const Add4 = {
-    backgroundImage: 'url(public/images/LIST_AD_4.png)',
+    backgroundImage: 'url(https://cooperativacaicara.vercel.app/images/LIST_AD_4.png)',
     backgroundRepeat: 'no-repeat',
     boxShadow: '0 0.5rem 1rem rgba(0,0,0,0.15)',
     margin: '0px',
@@ -114,7 +114,7 @@ export const Add4 = {
     }
 }
 export const Add5 = {
-    backgroundImage: 'url(public/images/LIST_AD_5.png)',
+    backgroundImage: 'url(https://cooperativacaicara.vercel.app/images/LIST_AD_5.png)',
     backgroundRepeat: 'no-repeat',
     boxShadow: '0 0.5rem 1rem rgba(0,0,0,0.15)',
     margin: '0px',

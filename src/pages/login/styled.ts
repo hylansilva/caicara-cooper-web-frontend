@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Image = styled.div`
-    background-image: url('public/images/login_backgroundImage.png');
+    background-image: url('https://cooperativacaicara.vercel.app/images/login_backgroundImage.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100dvh;
